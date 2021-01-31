@@ -1,4 +1,3 @@
 def image():
     print('wellcome')
 
-    
